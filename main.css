@@ -1,0 +1,33 @@
+body {
+	background-color: #444444;
+}
+
+.quoteBox {
+	background-color: #D3D3D3;
+	height: 200px;
+	margin-top: 100px;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.refresh {
+	background-color:#D3D3D3;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+.refresh:hover {
+	cursor: pointer;
+	background-color:#E5E5E5;
+}
+.tweet {
+	background-color: #D3D3D3;
+	margin-top: 20px;
+	margin-left: 20px;
+	border-radius: 10px;
+}
+
+.tweet:hover {
+	cursor: pointer;
+	background-color:#E5E5E5;	
+}
